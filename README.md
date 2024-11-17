@@ -46,5 +46,3 @@
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayyngrh" width="320px">
-
-![Profile counter](https://moe-counter.glitch.me/get/@edqe14?theme=rule34)

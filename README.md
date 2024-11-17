@@ -2,13 +2,13 @@
 
 ### I'm Bayu Nugraha or also known as bayyNGRH online. I'm a self-taught web developer
 
-🌐 [Website](https://edqe.me)
-✉ [E-Mail](mailto:hello@edqe.me)
+🌐 [Website](https://bayyngrh.xyz)
+✉ [E-Mail](mailto:hello@bayyngrh.xyz)
 ☕ [Buy me a Coffee](https://ko-fi.com/edqe_)
 
 ## Here is some of the projects I've worked on
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Edqe14" align="right" width="300px">
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bayyngrh" align="right" width="300px">
 
 - ❤ [Vignette](https://vignetteapp.org) - The open source VTuber software.
 - 🔊 [AudioForwarder](https://github.com/Edqe14/AudioForwarder) - Forward audio from Discord to the web
@@ -20,7 +20,7 @@
 
 ## Here is tech stacks I know and use 🛠
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edqe14&langs_count=10" width="300px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayyngrh&langs_count=10" width="300px">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
@@ -45,6 +45,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-2f1a47?style=flat&logo=blender)&nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edqe14" width="320px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bayyngrh" width="320px">
 
 ![Profile counter](https://moe-counter.glitch.me/get/@edqe14?theme=rule34)

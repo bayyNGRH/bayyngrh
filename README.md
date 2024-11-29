@@ -1,5 +1,7 @@
 # _Hi there 👋_
 
+<img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif">
+
 ### I'm Bayu Nugraha or also known as bayyNGRH online. I'm a self-taught web developer
 
 🌐 [Website](https://bayyngrh.xyz)

@@ -6,7 +6,7 @@
 
 🌐 [Website](https://bayyngrh.xyz)
 ✉ [E-Mail](mailto:hello@bayyngrh.xyz)
-☕ [Buy me a Coffee](https://ko-fi.com/edqe_)
+☕ [Buy me a Coffee](https://ko-fi.com/bayyngrh)
 
 ## Here is some of the projects I've worked on
 
